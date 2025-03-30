@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: 'Streetbooster Japan'
+  site: 'https://streetbooster.jp'
   base: '/'
   trailingSlash: false
 
